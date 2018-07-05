@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+.main-header {
+    padding-top: 800px;
+    height: 700px;
+    background: #ffa949;
+
+}
+
+h1 {
+  height: 700px;
+}
